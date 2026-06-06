@@ -1,0 +1,7 @@
+{
+  "name": "simunye-pricing-engine",
+  "dependencies": {
+    "react": "^18.2.0",
+    "lucide-react": "latest"
+  }
+}
